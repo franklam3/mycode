@@ -1,6 +1,6 @@
 # mycode
 tracking my code
-
+this is a sentence about wanting to learn how to version control projects with git
 ## getting started
 
 These instructions will get you a copy of the project up and runing on your local 
